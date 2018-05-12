@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33995'
     url: http://www.gutenberg.org/2009/agents/33995
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29570#Rope
 gutenberg_issued: '2009-08-02'
 gutenberg_type: Text
 identifiers:
